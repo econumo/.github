@@ -3,7 +3,7 @@
 > Econumo - open source budget application
 
 #### Product links
-- [Product promo](https://econumo.com)
+- [Econumo promo](https://econumo.com)
 - [Telegram](https://t.me/econumo)
 - [Twitter](https://twitter.com/econumo)
 - [Help](https://help.econumo.com)
