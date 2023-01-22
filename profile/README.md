@@ -7,6 +7,7 @@
 - [Telegram](https://t.me/econumo)
 - [Twitter](https://twitter.com/econumo)
 - [Help](https://help.econumo.com)
+- [Status Page](https://status.econumo.com)
 
 #### Open source
 - [Backend source code](https://github.com/econumo/api-backend)
