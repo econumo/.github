@@ -3,11 +3,12 @@
 > Econumo - open source budget application
 
 #### Product links
-- [Econumo promo](https://econumo.com)
+- [Econumo application](https://app.econumo.com/?utm_source=github)
+- [Econumo promo](https://econumo.com/?utm_source=github)
+- [Status page](https://status.econumo.com/?utm_source=github)
 - [Telegram](https://t.me/econumo)
 - [Twitter](https://twitter.com/econumo)
-- [Help](https://help.econumo.com)
-- [Status Page](https://status.econumo.com)
+- [Help](https://help.econumo.com?utm_source=github)
 
 #### Open source
 - [Backend source code](https://github.com/econumo/api-backend)
