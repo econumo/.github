@@ -14,6 +14,6 @@
 - [Documentation](https://github.com/econumo/help)
 - [Localization](https://crowdin.com/project/econumo) [![Crowdin](https://badges.crowdin.net/econumo/localized.svg)](https://crowdin.com/project/econumo)
 - [Backend source code](https://github.com/econumo/api-backend)
-- [Docker-compose example](examples/docker-compose.yml)
+- [Docker-compose example](https://econumo.com/docs/open-source/)
 - [Backend on the Docker hub](https://hub.docker.com/r/econumo/api-backend)
 - [Frontend on the Docker hub](https://hub.docker.com/r/econumo/app-frontend)
