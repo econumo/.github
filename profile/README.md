@@ -5,7 +5,6 @@
 #### Product links
 - [Econumo website](https://econumo.com/?utm_source=github)
 - [Econumo documentation](https://econumo.com/docs/?utm_source=github)
-- [Telegram](https://t.me/econumo)
 - [Twitter](https://twitter.com/econumo)
 
 #### Open source
