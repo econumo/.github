@@ -14,4 +14,4 @@
 
 #### Getting Started
 
-- To self-host the free version of [Econumo One](https://econumo.com/docs/edition/), please follow the instructions in [the repository](https://github.com/econumo/econumo-one).
+- To self-host the free version [Econumo One](https://econumo.com/docs/edition/), please follow the instructions in [the repository](https://github.com/econumo/econumo-one).
