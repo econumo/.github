@@ -10,3 +10,8 @@
 - [Econumo website](https://econumo.com/?utm_source=github)
 - [Econumo documentation](https://econumo.com/docs/?utm_source=github)
 - [X (Twitter)](https://x.com/econumo)
+
+
+#### Getting Started
+
+- To self-host the free version of [Econumo One](https://econumo.com/docs/edition/), please follow the instructions in [the repository](https://github.com/econumo/econumo-one).
