@@ -15,3 +15,9 @@
 #### Getting Started
 
 - To self-host the free version [Econumo One](https://econumo.com/docs/edition/), please follow the instructions in [the repository](https://github.com/econumo/econumo-one).
+
+
+---
+*Econumo One* is funded by our `GitHub Sponsors`🖤 and subscribers of `Econumo Family`💑 and `Econumo Cloud`☁️. 
+
+To support the project, please visit our [Sponsorship page](https://github.com/sponsors/econumo).
