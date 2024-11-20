@@ -18,6 +18,6 @@
 
 
 ---
-*Econumo One* is funded by our `GitHub Sponsors`🖤 and subscribers of `Econumo Family`💑 and `Econumo Cloud`☁️. 
+[Econumo One](https://github.com/econumo/econumo-one) is funded by our `GitHub Sponsors`🖤 and subscribers of `Econumo Family`💑 and `Econumo Cloud`☁️. 
 
 To support the project, please visit our [Sponsorship page](https://github.com/sponsors/econumo).
