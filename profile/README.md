@@ -5,7 +5,7 @@
 
 #### Getting Started
 
-- To self-host the free version [Econumo One](https://econumo.com/docs/edition/), please follow the instructions in [the repository](https://github.com/econumo/econumo-one).
+- To self-host the free version [Econumo CE](https://econumo.com/docs/edition/), please follow the instructions in [the repository](https://github.com/econumo/econumo-ce).
 
 
 #### Open Source
@@ -21,6 +21,6 @@
 
 
 ---
-[Econumo One](https://github.com/econumo/econumo-one) is funded by our `GitHub Sponsors`🖤 and subscribers of `Econumo Family`💑 and `Econumo Cloud`☁️. 
+[Econumo CE](https://github.com/econumo/econumo-ce) is funded by our `GitHub Sponsors`🖤 and `Econumo Cloud`☁️ subscribers. 
 
 To support the project, please visit our [Sponsorship page](https://github.com/sponsors/econumo).
