@@ -11,6 +11,7 @@
 #### Open Source
 - [GitHub discussions](https://github.com/orgs/econumo/discussions)
 - [Localization](https://crowdin.com/project/econumo) [![Crowdin](https://badges.crowdin.net/econumo/localized.svg)](https://crowdin.com/project/econumo)
+- [Econumo Backend](https://github.com/econumo/econumo-backend)
 
 
 #### Product links
