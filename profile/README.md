@@ -5,7 +5,7 @@
 
 #### Getting Started
 
-- To self-host the free version [Econumo CE](https://econumo.com/docs/edition/), please follow the instructions in [the repository](https://github.com/econumo/econumo).
+- To self-host the free version [Econumo](https://econumo.com/docs/edition/), please follow the instructions in [the repository](https://github.com/econumo/econumo).
 
 
 #### Open Source
