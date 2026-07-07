@@ -24,4 +24,4 @@
 ---
 [Econumo](https://github.com/econumo/econumo) is funded by our `GitHub Sponsors`🖤 and `Econumo Cloud`☁️ subscribers. 
 
-To support the project, please visit our [Sponsorship page](https://github.com/sponsors/econumo).
+To support the project, please visit our [Sponsorship page](https://github.com/sponsors/dmtrkzntsv).
